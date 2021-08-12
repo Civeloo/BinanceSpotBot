@@ -8,8 +8,12 @@ Compatible with .Net Standard 2.0 and .Net Core 3.1
 Download:
 https://sourceforge.net/projects/civeloo-binance-spot-bot/
 
-Trading bot creates buy and sell orders through the Binance API.
-Bot de trading crea ordenes de compra y venta por medio de la API de Binance.
+Trading bot, creates automatic buy and sell StopLimit orders approaching the price, through the Binance API.
+Bot de trading, crea ordenes StopLimit de compra y venta automáticas acercandoce al precio,  por medio de la API de Binance.
+
+Recommendation: 
+Use to accompany your trading strategy, it replaces the task of constantly creating orders manually, but the profit depends on you.
+Usar para acompañar tu estrategia de trading, reemplaza la tarea de crear contantemente ordenes manualmente, pero la ganancia depende de vos.
 
 *Api/Secret Key:
 Binance API Keys.
