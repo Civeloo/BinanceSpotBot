@@ -1,4 +1,4 @@
-# BinanceSpotBot
+# BinanceSpotBot v1.0.0.1
 by civeloo.com
 
 Binance Api connection forked of https://github.com/glitch100/BinanceDotNet
@@ -34,6 +34,10 @@ Grabar las claves.
 *Token/Par:
 Pair of currencies with which we are going to operate.
 Par de monedas con las que vamos a operar.
+
+*Quantity:
+0 for automatic (max).
+Cantidad, 0 para automático (max).
 
 BOT:
 
