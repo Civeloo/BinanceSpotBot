@@ -1,4 +1,4 @@
-# BinanceSpotBot v1.0.0.1
+# BinanceSpotBot v1.0.0.2
 by civeloo.com
 
 Binance Api connection forked of https://github.com/glitch100/BinanceDotNet
@@ -13,7 +13,7 @@ Bot de trading, crea ordenes StopLimit de compra y venta automáticas acercandoc
 
 Recommendation: 
 Use to accompany your trading strategy, it replaces the task of constantly creating orders manually, but the profit depends on you.
-Usar para acompañar tu estrategia de trading, reemplaza la tarea de crear contantemente ordenes manualmente, pero la ganancia depende de vos.
+Usar para acompañar tu estrategia de trading, reemplaza la tarea de crear constantemente ordenes manualmente, pero la ganancia depende de vos.
 
 *Api/Secret Key:
 Binance API Keys.
@@ -60,6 +60,10 @@ Crea ordenes de venta abajo del precio siempre acercandose al mismo para vender 
 *Profit:
 Only create orders that generate profit.
 Solo crea ordenes que generen ganancias.
+
+Fails:
+Synchronize time in windows.
+Sincronice la hora en Windows.
 
 Download:
 https://sourceforge.net/projects/civeloo-binance-spot-bot/
