@@ -1,4 +1,4 @@
-# BinanceSpotBot v1.0.0.3
+# BinanceSpotBot v1.0.0.4
 
 by civeloo.com
 
